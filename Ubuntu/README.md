@@ -40,3 +40,6 @@ Ya que el sistema está instalado quitaremos la imagen ISO y solo dejaremos el d
 
 Ahora si, pasamos a nuestro sistema operativo. LLenamos información respecto a hora, localizaión y otros datos que se nos pidan como usuario y contraseña. Al preguntarnos si queremos conectarnos a internet, diremos que no.
 <p><img src='images/welcome.png' width='500' alt='Bienvenida'><p>
+
+Una vez termine la configuración, nos dará un mensaje de confirmación y pasaremos a la ventana de login y a nuestro desktop
+<p><img src='images/desktop.png' width='600' alt='Escritorio de Ubuntu'><p>
