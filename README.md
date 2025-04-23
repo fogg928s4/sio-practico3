@@ -10,7 +10,7 @@ Para cada uno de estos se provee un script para su ejecución, o en su defecto, 
 
 ## Capítulo I. Hipervisores y Virtualizadores
 ### QEMU
-La virtualización de los sitemas operativos de **MacOS X 10.0, Ubuntu 4.10** se hacen con el uso de __QEMU__. Este puede ser instalarse en Windows <a href='https://www.qemu.org/download/#windows'> a través de la página oficial</a> o desde la terminal con
+La virtualización de los sitemas operativos de **MacOS X 10.0 y Ubuntu 4.10** se hacen con el uso de __QEMU__. Este puede ser instalarse en Windows <a href='https://www.qemu.org/download/#windows'> a través de la página oficial</a> o desde la terminal con
 
     iwr -Uri https://qemu.weilnetz.de/w64/qemu-w64-setup-20250416.exe
     && ./qemu-w64-setup-20250416.exe
@@ -44,7 +44,9 @@ Para más información de instalación visitar la carpeta Ubuntu en este reposit
 <p>
 <img src='Ubuntu/images/desktop.png' width='500' alt='Ubuntu desktop'><p>
 
+### Windows 1.0
+Por lejos el sistema operativo más viejo de esta lista (16 años de diferencia con el segundo más viejo, MacOS Cheetah) lanzado en 1985. Fue diseñado para una arquitectura muy vieja y mayormente obsoleta hace muchos años por el bien de todos, por lo cual su virtualización es ligeramente más complicada también, pues la mayoría de sistemas operativos modernos no soportan sus archivos de imagen. 
+No hay una imagen ISO para este sistema operativo directamente, tan solo archivos tipo **img**, que suelen representar datos de un floppy disk. Por ello, la virtualización será hecha a través del sitio web <a href="www.pcjs.org">**PCjs Machines**</a>. Este sitio permite la emulación de distintos sistemas antiguos.
 
-
-
+<p><img src='Windows/images/duel-of-faiths.png' width='500' alt=''><p>
 
