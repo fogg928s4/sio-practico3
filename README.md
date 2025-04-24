@@ -61,4 +61,4 @@ No hay una imagen ISO para este sistema operativo directamente, tan solo archivo
 ### Android 1.0
 El más joven de los sistemas operativos de esta lista, es un sistema operativo basado en Linux y BSD para teléfonos celulares lanzado en 2008. Para la virtualización de este SO usaremos el SDK 1.0, el cual incluye una máquina virtual de Android 1.0. Dicho SDK, no está disponible ya más de forma oficial, sin embargo, puede obtenerlo por medio de este enlace <a href="https://archive.org/details/android-sdk-1.0_r2"> **de descarga desde archive.org**</a>.
 <p>
-<img src="Android/images/21.png" alt="21"><p>
+<img src="Android/images/21.png" width="500" alt="21"><p>
